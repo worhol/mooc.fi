@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ebd7fe5-e5e1-4d0d-be0e-afd1aad1308e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/runConfigurations/Part01_02_AdaLovelace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/Part01_02.AdaLovelace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/src/main/java/AdaLovelace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/src/test/java/AdaLovelaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/target/classes/AdaLovelace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/target/test-classes/AdaLovelaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Part01_03_OnceUponATime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part01_03.OnceUponATime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OnceUponATime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OnceUponATimeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OnceUponATime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OnceUponATimeTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1pGqc0YsQGL8F56yFBQWLGrSfFc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ebd7fe5-e5e1-4d0d-be0e-afd1aad1308e" name="Default Changelist" comment="" />
+      <created>1614819851350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614819851350</updated>
+    </task>
+    <servers />
+  </component>
+</project>
