@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e031a1e-26b5-4b4c-b4ee-551012b1e5b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mooc.fi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMCProjects/mooc-java-programming-i/part01-Part01_01.Sandbox/src/main/java/Sandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/TMCProjects/mooc-java-programming-i/part01-Part01_01.Sandbox/src/main/java/Sandbox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,5 +45,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
